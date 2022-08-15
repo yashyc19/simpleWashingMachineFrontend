@@ -1,0 +1,53 @@
+{
+    "Towel": 
+    [
+        "Blue Terry",
+        "White Terry",
+        "Swipe Towel",
+        "Green Bath",
+        "Others"
+    ],
+    "Apron":
+    [
+        "White Aprons",
+        "Black Aprons",
+        "Red Aprons",
+        "Blue Aprons",
+        "Brown Aprons",
+        "Others"
+    ],
+    "Napkins":
+    [
+        "Black",
+        "White Terry",
+        "Red Aprons",
+        "Black Chambray",
+        "Burgundy",
+        "Navy",
+        "Stripe",
+        "Chocolate",
+        "Blue",
+        "Blue Striped",
+        "Others"
+    ],
+    "Table Cloths":
+    [
+        "52s",
+        "61s",
+        "90s",
+        "114s",
+        "42s",
+        "71s",
+        "80s",
+        "52x69",
+        "52x92",
+        "Elite"
+    ],
+    "Others":
+    [
+        "Wet mpos",
+        "Dust mops",
+        "COG items",
+        "Others"
+    ]
+}
